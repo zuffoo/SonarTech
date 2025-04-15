@@ -22,14 +22,14 @@ Você pode visualizar o projeto publicado no GitHub Pages:
 ## 📄 Estrutura do Projeto
 
 📁 SonarTech/ 
-├── index.html # Página principal do site 
-├── style.css # Arquivo de estilo 
-└── images/ # Imagens usadas no site 
-├── bg/ # Imagens de fundo 
-├── clientes/ # Imagens relacionadas aos clientes 
-├── logos/ # Logos da empresa
-└── servicos/ # Imagens de serviços e eventos 
-└── README.md # Arquivo de documentação do projeto
+├── index.html
+├── style.css
+└── images/ 
+├── bg/ 
+├── clientes/
+├── logos/
+└── servicos/ 
+└── README.md
 
 ## 🎯 Objetivos de Aprendizado
 
