@@ -45,7 +45,7 @@ Este site foi desenvolvido como parte da avaliação prática da matéria **Fund
 
 Aqui está uma captura de tela do site:
 
-![Captura de Tela do Site](assets/homepage.png)
+![Captura de Tela do Site](homepage.png)
 
 ---
 
