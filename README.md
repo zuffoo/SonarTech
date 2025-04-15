@@ -1,6 +1,6 @@
 # 🎧 SonarTech – Soluções em Sonorização e Eventos
 
-Este projeto é o meu primeiro website, desenvolvido como parte do trabalho final da disciplina **Fundamentos ao Desenvolvimento Web** na **Universidade do Oeste de Santa Catarina (UNOESC)**, durante o ano de 2024.
+Este projeto é o meu primeiro website, desenvolvido como parte do trabalho da disciplina **Fundamentos ao Desenvolvimento Web** na **Universidade do Oeste de Santa Catarina (UNOESC)**, durante o ano de 2024.
 
 ## 🏗️ Sobre o Projeto
 
