@@ -21,7 +21,15 @@ Você pode visualizar o projeto publicado no GitHub Pages:
 
 ## 📄 Estrutura do Projeto
 
-📁 SonarTech/ ├── index.html ├── css/ │ └── styles.css ├── js/ │ └── script.js ├── assets/ │ ├── images/ │ └── icons/ └── README.md
+📁 SonarTech/
+├── index.html
+├── style.css
+└── images/
+    ├── bg/
+    ├── clientes/
+    ├── logos/
+    └── servicos/
+└── README.md
 
 ## 🎯 Objetivos de Aprendizado
 
